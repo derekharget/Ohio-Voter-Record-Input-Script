@@ -20,7 +20,7 @@ https://www6.ohiosos.gov/ords/f?p=111:2::FILE_LAYOUT:NO:RP,2::
 
 <b>Simple Usage:</b> 
 
-<code> php voterImport.php -f <filename> </code>
+<code> php voterImport.php -f [file] </code>
 
 
 # Dependencies: 
