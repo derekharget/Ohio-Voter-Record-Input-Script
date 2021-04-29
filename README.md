@@ -4,7 +4,7 @@ Created and used for ohioer. Created for a general index of people who live in O
 
 ## Where to download files to import
 
-#
+# All counties bunched up into 4 files
 
 https://www6.ohiosos.gov/ords/f?p=VOTERFTP:STWD:::#stwdVtrFiles
 
